@@ -8,8 +8,10 @@ It is designed to be very user friendly, allowing users to quickly choose an apa
 
 It'll have 3 primary pages; Property Listing View, Listing Detailed View and Simple Checkout View.
 
+Page | Description  
+--- | ---
 Property Listing View | This page shows the list of available properties to book and cost.  
---- | ---  
+
 Detailed Listing View | This page shows the detailed information of the each property (when clicked from the Property Listing View) and a checkout button.  
---- | ---  
+
 Simple Checkout View | This page allows the users to complete their checkout to successfully book a property.  
