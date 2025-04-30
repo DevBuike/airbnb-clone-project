@@ -1,17 +1,38 @@
-# Overview.  
-This project is a clone of the popular shortlet rental website, AirBnB.  
-I'd be recreating the basic functionalities of the website using HTML, CSS, Javascript and React js.
+# Project Description.  
+This project is a full-stack clone of the popular accommodation booking platform AirBnB. The goal is to build a functional web application that allows users to browse property listings, view detailed property information, and complete bookings. The project will cover frontend development, backend APIs, database design, and deployment.  
+
+### Project Objectives  
+* Learn to implement responsive UI/UX designs  
+* Understand how to structure a complex web application  
+* Practice working in a team with defined roles  
+* Develop skills in component-based frontend architecture  
+* Learn best practices for web application development
+
+### Tech Stack  
+* Frontend: HTML, CSS, JavaScript (React or similar framework)
+* Version Control: Git and GitHub
+* Design Tools: Figma for UI/UX design
 
 
 ## UI/UX Design Planning.  
-It is designed to be very user friendly, allowing users to quickly choose an property from the available list of properties to book, with detailed a page highlighting the features of the selected property and a page to complete the checkout.  
+### Design Goals
+* Create intuitive booking flow
+* Maintain visual consistency
+* Ensure fast loading times
+* Prioritize mobile responsiveness
 
-It'll have 3 primary pages; Property Listing View, Listing Detailed View and Simple Checkout View.
+### Key Features  
+* Property search and filtering
+* Detailed property viewing
+* Secure checkout process
+* User authentication
+
 
 | Page | Description |
 | --- | --- |
-Property Listing View | This page shows the list of available properties to book and price.  
-Detailed Listing View | This page shows the detailed information of the each property (when clicked from the Property Listing View) and includes a checkout button.  
-Simple Checkout View | This page allows the users to complete their checkout to successfully book a property.  
+Property Listing View | Grid display of available properties with filters  
+Detailed Listing View | Complete property details with images and booking form.  
+Simple Checkout View | Streamlined payment and booking confirmation  
 
-Delivering a very user-friendly interface when designing a booking system will drive up revenues as users can easily & quickly navigate through the system and make payments hassle.
+### Importance of User-Friendly Designs  
+A well-designed booking system reduces friction in the user journey, increases conversion rates, and improves customer satisfaction. Clear navigation, intuitive interfaces, and responsive design are critical for success.
