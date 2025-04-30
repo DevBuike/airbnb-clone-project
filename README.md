@@ -4,7 +4,7 @@ I'd be recreating the basic functionalities of the website using Javascript and 
 
 
 ## UI/UX Design Planning.  
-It is designed to be very user friendly, allowing users to quickly choose an apartment to book, with detailed a page highlighting the features of the selected property and a page to complete the checkout.  
+It is designed to be very user friendly, allowing users to quickly choose an property from the available list of properties to book, with detailed a page highlighting the features of the selected property and a page to complete the checkout.  
 
 It'll have 3 primary pages; Property Listing View, Listing Detailed View and Simple Checkout View.
 
